@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">1년차 프론트엔드 개발자 백창엽입니다.<br><br>PortFolio URL: https://changyeopolio-dev.vercel.app/</p>
+<p align="left">1년차 프론트엔드 개발자 백창엽입니다.<br><br>Portfolio URL: https://changyeopolio-dev.vercel.app/</p>
 
 ###
 
