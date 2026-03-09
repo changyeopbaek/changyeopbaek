@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">In pursuit of detailed FE developer</h1>
+<h1 align="center">A user-centered front-end developer with a product management background.</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">1년차 프론트엔드 개발자 백창엽입니다.<br><br>Portfolio URL: https://changyeopolio-dev.vercel.app/</p>
+<p align="left">PM 경험을 바탕으로 서비스 전체 맥락을 이해하고, 사용자 중심으로 구현하는 FE 개발자 백창엽입니다.<br><br>Portfolio URL: https://changyeopolio-dev.vercel.app/</p>
 
 ###
 
